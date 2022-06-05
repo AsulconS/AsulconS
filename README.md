@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AI Topics, Godot Script and Advanced Drawing
 - ⚡ Fun fact: Me, hahahaha
 
-[![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](#)
+[![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&count_private=true&theme=tokyonight)](#)
 
 ### 👨🏻‍💻 Programming Languages
 
