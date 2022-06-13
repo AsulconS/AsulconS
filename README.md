@@ -11,7 +11,7 @@
 - ⚡ Fun fact: What does Thor have for breakfast? A Thortilla
 
 [![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&count_private=true&theme=tokyonight)](#)
-[![AsulconS's trophies](https://github-profile-trophy.vercel.app/?username=AsulconS&theme=tokyonight&&column=-1&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![AsulconS's trophies](https://github-profile-trophy.vercel.app/?username=AsulconS&theme=tokyonight&&column=-1&margin-w=8)](#)
 
 ### 👨🏻‍💻 Programming Languages
 
