@@ -40,7 +40,7 @@
 
 - **GitHub:** [AsulconS](https://github.com/AsulconS)
 - **Email:** [rolandobedregal321@gmail.com](mailto:rolandobedregal321@gmail.com)
-- **LinkedIn:** [Adrian Bedregal](linkedin.com/in/adrian-rolando-bedregal-vento-1baa13175)
+- **LinkedIn:** [Adrian Bedregal](https://www.linkedin.com/in/adrian-bedregal)
 
 <!--
 **AsulconS/AsulconS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
