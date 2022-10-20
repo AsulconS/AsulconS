@@ -6,8 +6,8 @@
 
 - 🤓 I'm a Computer Science Last Year Student, Indie Game Developer, Hobby Artist and Junior Researcher
 - 🔭 I’m currently working on dev projects and research in AI
-- 👨🏻‍💻 I’m currently working at the indie game studio **Aesthetic Cat**
-- 🌱 I’m currently learning AI Topics, Godot Script and Advanced Drawing
+- 👨🏻‍💻 I’m currently working at the game studio **Bamtang Games**
+- 🌱 I’m currently learning AI Topics and Advanced Drawing
 - ⚡ Fun fact: What does Thor have for breakfast? A Thortilla
 
 [![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&count_private=true&theme=tokyonight)](#)
