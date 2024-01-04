@@ -32,7 +32,7 @@
 - [`Viscos-MLT`](https://github.com/AsulconS/Viscos-MLT) Vissualy Creative Ordinary Software Math Learning Tool
 - [`MAVeD`](https://github.com/AsulconS/MAVeD) MAVeD is a DBMS that focus on the Single Instance paradigm
 - [`CurlyScript`](https://github.com/AsulconS/CurlyScript-Compiler) The CurlyScript Language Compiler Official Repository
-- [`PyScanner`](https://github.com/AsulconS/PyScanner) PyScanner is a Python Web Application for scanning images from photographs
+- [`CppScanner`](https://github.com/AsulconS/CppScanner) CppScanner is a Web Application for scanning images from photographs
 - [`SPH`](https://github.com/AsulconS/SPH) Smoothed Particle Hydrodynamics Water Simulation Implementation
 - [`WebCSUNSA`](https://github.com/lehi10/webCsUNSA) Computer Science's Web Page for Computer Science Week
 
