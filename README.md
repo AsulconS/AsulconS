@@ -7,7 +7,7 @@
 - 🤓 I'm a Computer Science Last Year Student, Indie Game Developer, Hobby Artist and Junior Researcher
 - 🔭 I’m currently working on dev projects and research in AI
 - 🌱 I’m currently learning Advanced Math Topics, AI, and Advanced Drawing.
-- 👨🏻‍💻 I'm currently developing my multi-platform 3D Graphics Library: [`HSGIL`](https://github.com/AsulconS/HSGIL)
+- 👨🏻‍💻 I'm currently developing my multi-platform 3D Graphics Library: [`HSGIL`](https://github.com/AsulconS/HSGIL) and my 3D Game Engine: [`Curly Engine`](https://github.com/AsulconS/Curly-Engine)
 - ⚡ Fun fact: What does Thor have for breakfast? A Thortilla
 
 [![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&count_private=true&theme=tokyonight)](#)
