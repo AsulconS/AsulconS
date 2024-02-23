@@ -4,7 +4,7 @@
 
 ### About me
 
-- 🤓 I'm a Computer Science Last Year Student, Indie Game Developer, Hobby Artist and Junior Researcher
+- 🤓 I'm an Indie Game Developer, Hobby Artist and Junior Researcher
 - 🔭 I’m currently working on dev projects and research in AI
 - 🌱 I’m currently learning Advanced Math Topics, AI, and Advanced Drawing.
 - 👨🏻‍💻 I'm currently developing my multi-platform 3D Graphics Library: [`HSGIL`](https://github.com/AsulconS/HSGIL) and my 3D Game Engine: [`Curly Engine`](https://github.com/AsulconS/Curly-Engine)
