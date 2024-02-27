@@ -19,12 +19,12 @@
 
 ### 📚 My Topics of Interest
 
-- 🤖 Artificial Intelligence
 - 🎮 Video Game Programming
 - 🫖 Computer Graphics
-- 🧠 Brain-Computer Interface
 - ⚙️ Game Engine Development
 - 👨🏻‍💻 Library/API Development
+- 🤖 Artificial Intelligence
+- 🧠 Brain-Computer Interface
 
 ### 🛠️ Projects and Contributions
 
