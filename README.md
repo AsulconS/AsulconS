@@ -10,7 +10,11 @@
 - 👨🏻‍💻 I'm currently developing my multi-platform 3D Graphics Library: [`HSGIL`](https://github.com/AsulconS/HSGIL) and my 3D Game Engine: [`Curly Engine`](https://github.com/AsulconS/Curly-Engine)
 - ⚡ Fun fact: What does Thor have for breakfast? A Thortilla
 
+[![Years Badge](https://badges.pufler.dev/years/AsulconS)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/AsulconS)](https://badges.pufler.dev)
+
 [![AsulconS's github stats](https://github-readme-stats.vercel.app/api?username=AsulconS&show_icons=true&count_private=true&theme=tokyonight)](#)
+<!--[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12038761)](https://stackoverflow.com/users/12038761/asulcons)-->
 [![AsulconS's trophies](https://github-profile-trophy.vercel.app/?username=AsulconS&theme=tokyonight&&column=-1&margin-w=8)](#)
 
 ### 👨🏻‍💻 Programming Languages
