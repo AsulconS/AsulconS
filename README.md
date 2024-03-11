@@ -45,7 +45,7 @@
 ### 📩 Contact
 
 - **GitHub:** [AsulconS](https://github.com/AsulconS)
-- **Email:** [rolandobedregal321@gmail.com](mailto:rolandobedregal321@gmail.com)
+- **Email:** [adrian.r.bedregal@gmail.com](mailto:adrian.r.bedregal@gmail.com)
 - **LinkedIn:** [Adrian Bedregal](https://www.linkedin.com/in/adrian-bedregal)
 
 <!--
