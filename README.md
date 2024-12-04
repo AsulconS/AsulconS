@@ -42,6 +42,11 @@
 - [`WebCSUNSA`](https://github.com/lehi10/webCsUNSA) Computer Science's Web Page for Computer Science Week
 - [`CurlyScript`](https://github.com/AsulconS/CurlyScript-Compiler) The CurlyScript Language Compiler Official Repository
 
+- **Game Contributions:**
+
+  [![Dwr](https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000062295/e1695a37cb31390b71b628c173a0cb67ac4f7a146cfe1500d786388f3f65fc7b)](https://www.youtube.com/watch?v=RsDAMA8ZL7E)
+  [![Nkr](https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000043027/dd0b47aed50207d7be8681be221c2bd8099393e01d44ac7cb0a9b692bdeac2ee)](https://www.youtube.com/watch?v=wrwOEpXCAmw)
+
 ### 📩 Contact
 
 - **GitHub:** [AsulconS](https://github.com/AsulconS)
